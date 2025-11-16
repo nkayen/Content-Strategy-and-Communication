@@ -37,8 +37,7 @@ Click on any title to view the full analysis of the challenge, methodology, and 
     * [Link: `./case-studies/05-freelance-strategy.md`] <br>
 <div>&nbsp;</div>
 
-## Skills and Technologies
-**Localization, Translation, and Technical Language Fluency** <br>
+## **Localization, Translation, and Technical Language Fluency** <br>
 [Link: `./case-studies/06-translation-localization.md`]
 <div>&nbsp;</div>
 
