@@ -1,4 +1,4 @@
-# 📄 Scaling Content Strategy through Hyper-Growth, Mergers, and Acquisitions (2019-2025 6 years)
+# 📄 Scaling Content Strategy through Hyper-Growth, Mergers, and Acquisitions (2019-2025, 6 years)
 
 ***
 
@@ -12,9 +12,9 @@
 | **Target Audience** | Up to 15.000 Operation and Delivery users globally, and 17- to 30.000 across the division. |
 | **Tools & Frameworks** | Agile/Waterfall; Confluence; Jira; RISE 360; Workday; Eloqua; CRMs; LMS; ITIL, ISO, CIS, SOC, etc. |
 <br>
-I started as a Technical Writer with the objective to create and maintain a centralized knowledge base for processes, platforms, tools, and clarity on the organization's strategy. 
+Started as a Technical Writer with the objective to create and maintain a centralized knowledge base for processes, platforms, tools, and clarity on the organization's strategy. 
 As our audience grew by the thousands in just a few years, my responsibilities grew to include Release Management and Governance, as well as Learning and Development strategy and development. <br><br>
-I owned the chain from process to training to implementation and maintenance and drove organizational efficiency and clarity by creating and maintaining standardized knowledge, training, and communication systems.
+Owned the chain from process to training to implementation and maintenance and drove organizational efficiency and clarity by creating and maintaining standardized knowledge, training, and communication systems.
 
 ---
 
@@ -23,7 +23,7 @@ I owned the chain from process to training to implementation and maintenance and
 Developed and maintained a centralized knowledge repository in Confluence, documenting and maintaining the core processes and standards that adapted through multiple major reorganizations for the entire Managed Services division (which grew from 300 to 17.000 in 5 years) and cross-functional business areas (upto 30.000 employees worldwide). <br><br>
 
 ### **Standardization & Compliance** <br> 
-Led the development and implementation of standardized processes, platforms and tools that aligned complex operational content with key industry standards (ITIL, ISO, CIS, SOC) for Operations and Delivery.<br><br
+Led the development and implementation of standardized processes, platforms and tools that aligned complex operational content with key industry standards (ITIL, ISO, CIS, SOC) for Operations and Delivery.<br><br>
                                                                                                                                                                                                                    
 ### **Process Ownership** <br>
 Owned the chain from process creation to implementation and maintenance, and drove organizational efficiency and clarity to ensure all knowledge and communication systems were standardized and accessible to a global user base.<br><br>
